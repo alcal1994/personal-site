@@ -65,7 +65,8 @@ function App() {
               </ul> */}
               <div style={{ fontSize: '24px', textAlign: 'left' }}>Experience</div>
               <div class="experience-box">
-                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%' }}>Software Developer - RYCOM, Woodbridge, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block', float: 'left', width: '75%' }}>Software Developer - RYCOM, Woodbridge, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Aug 2021 - Present</p>
                 <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
                 ⬜	Lead developer on major projects including third party data integrations <br />
                 ⬜	Integral in development of software solutions for business requirements <br />
@@ -76,17 +77,19 @@ function App() {
                 </p>
               </div>
               <div class="experience-box">
-                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%' }}>Full Stack Software Developer - Caredove, Orilla, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%',display: 'inline-block', float: 'left', width: '75%' }}>Full Stack Software Developer - Caredove, Orilla, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Apr 2020 – Aug 2021</p>
                 <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
                 ⬜	Developed testable, reliable and reusable code for back-end and front-end solutions <br />
                 ⬜	Worked closely with development and operations team to identify and solve business problems <br />
                 ⬜	Debugging of a variety of applications both frontend and backend <br />
                 ⬜	Developed using strict FHIR standards for rapid healthcare data exchange <br />
-                ⬜	Technology stack: React with Redux, Next.js, Node.js, JAVA, PHP, Laravel
+                ⬜	Technology stack: React with Redux, Next.js, Node.js, Java, PHP, Laravel
                 </p>
               </div>
               <div class="experience-box">
-                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%' }}>Information Technology Intern - C.C. Tatham & Associates, Collingwood, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%',display: 'inline-block', float: 'left', width: '75%' }}>Information Technology Intern - C.C. Tatham & Associates, Collingwood, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Feb 2018 - May 2018</p>
                 <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
                 ⬜	Offered technical support to employees and conducted software and hardware repairs <br />
                 ⬜	Formulated and introduced web application solutions on Linux environment <br />
@@ -95,23 +98,37 @@ function App() {
                 ⬜	Repaired local intranet site content management system, while updating backend Linux environment <br />
                 </p>
               </div>
+              <div class="experience-box">
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block', float: 'left', width: '75%' }}>Web Developer - Freelance, Barrie, ON</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Apr 2017 - Oct 2018</p>
+                <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
+                ⬜	Developed web applications for small-medium sized businesses<br />
+                ⬜	Created designs for UI/UX <br />
+                ⬜	Documented client resources for updating website content<br />
+                ⬜	Work closely with stakeholders to develop scopes of work and provide estimates<br />
+                ⬜	Technology stack: WordPress, HTML, CSS, PHP, Linux, MySQL, Apache <br />
+                </p>
+              </div>
               <div style={{ fontSize: '24px', textAlign: 'left' }}>Education</div>
               <div class="experience-box">
-                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%' }}>Bachelor of Science in Computer Science with Specialization in Artificial Intelligence - April 2021</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block', float: 'left', width: '75%' }}>Bachelor of Science in Computer Science with Specialization in Artificial Intelligence</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Apr 2021</p>
                 <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
                   Davenport University, Grand Rapids, MI <br />
                   GPA: 3.85 | President's List | Community Gold Standard Award
                 </p>
               </div>
               <div class="experience-box">
-                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%' }}>Computer Programming Diploma - April 2019</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block', float: 'left', width: '75%' }}>Computer Programming Diploma</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Apr 2019</p>
                 <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
                   Georgian College, Barrie, ON <br />
                   Dean's List
                 </p>
               </div>
               <div class="experience-box">
-                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%' }}>Civil Engineering Technology Diploma - April 2016</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block', float: 'left', width: '75%' }}>Civil Engineering Technology Diploma</p>
+                <p style={{color: '#ffbc6a', textAlign: 'left', paddingLeft: '2%', paddingBottom: '0%', paddingTop: '2%', display: 'inline-block' }}>Apr 2016</p>
                 <p style={{ textAlign: 'left', paddingLeft: '2%', paddingBottom: '2%', paddingTop: '0%'}}>
                   Georgian College, Barrie, ON <br />
                   Dean's List
